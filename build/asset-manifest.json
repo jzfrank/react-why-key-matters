@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-why-key-matters/static/css/main.073c9b0a.css",
+    "main.js": "/react-why-key-matters/static/js/main.c6a29b6d.js",
+    "static/js/787.edfab790.chunk.js": "/react-why-key-matters/static/js/787.edfab790.chunk.js",
+    "index.html": "/react-why-key-matters/index.html",
+    "main.073c9b0a.css.map": "/react-why-key-matters/static/css/main.073c9b0a.css.map",
+    "main.c6a29b6d.js.map": "/react-why-key-matters/static/js/main.c6a29b6d.js.map",
+    "787.edfab790.chunk.js.map": "/react-why-key-matters/static/js/787.edfab790.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.c6a29b6d.js"
+  ]
+}
